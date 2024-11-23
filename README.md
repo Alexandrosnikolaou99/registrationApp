@@ -5,7 +5,7 @@ Project Setup and Instructions
 --Before you begin, ensure you have the following installed on your system:
 
 --Docker Desktop
----Download and install Docker Desktop from Docker's official website.
+---Download and install Docker Desktop from Docker's official website https://www.docker.com/products/docker-desktop/.
 ---After installation, sign in to your Docker account to enable Docker services.
 
 --Visual Studio Code (VS Code)
