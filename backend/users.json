@@ -1,0 +1,114 @@
+[
+    {
+        "username": "John Doe ",
+        "gender": "Male",
+        "phone": "6911111111",
+        "birthdate": "2001-02-01",
+        "email": "johndoe@jd.com",
+        "password": "$2y$12$Hc.VENM.p.xY8keh8Gv.\/uS8Fff3saRTmYcR7mXY3OzaF93hjQh82"
+    },
+    {
+        "username": "Jane Smith",
+        "gender": "Female",
+        "phone": "6901234567",
+        "birthdate": "1999-06-17",
+        "email": "janesmith@js.com",
+        "password": "$2y$12$xsJBL4V.fIRWZV2PrEajSOVKObJZdyCpq51AHbN2nbprubI3P4Zdi"
+    },
+    {
+        "username": "user1",
+        "gender": "Male",
+        "phone": "6930001234",
+        "birthdate": "1997-06-11",
+        "email": "user1@example.com",
+        "password": "$2y$12$QgEXMc6M4mA2FZMCJU29HelkG2pS6XiTVXG6pLipWuvL1F1OvPdfe"
+    },
+    {
+        "username": "user2 ",
+        "gender": "Non Binary",
+        "phone": "6980330000",
+        "birthdate": "2002-05-30",
+        "email": "user2@example.com",
+        "password": "$2y$12$c7Qxx8THfhnqpESCyqLNGuymSuCNw7DTkSH1DxjtY414O4Z2jMFiG"
+    },
+    {
+        "username": "user3",
+        "gender": "Male",
+        "phone": "6985673456",
+        "birthdate": "2004-01-07",
+        "email": "user3@gmail.com",
+        "password": "$2y$12$BJOLQ4TUVks\/7hyRFV\/2\/u49ODPSYk\/cE34bZZA25bSLYrlHbkxA2"
+    },
+    {
+        "username": "user4",
+        "gender": "Non Binary",
+        "phone": "6934567890",
+        "birthdate": "2004-03-22",
+        "email": "user4@example.com",
+        "password": "$2y$12$qut\/0lLak2g0PKkqsvXgR.PICPN3LBF1PZ6t9d07iMPh\/oFmZNTQm"
+    },
+    {
+        "username": "User5",
+        "gender": "Male",
+        "phone": "6901234321",
+        "birthdate": "2009-11-20",
+        "email": "user5@example.com",
+        "password": "$2y$12$jIJjCuzXIpGyhv4PbAmfqeMGeZrG03g0EhIctr6R82.sU7vJZi5N2"
+    },
+    {
+        "username": "user6",
+        "gender": "Non Binary",
+        "phone": "6987654321",
+        "birthdate": "1989-11-01",
+        "email": "user6@example.com",
+        "password": "$2y$12$9a.ed258VCjan0ixp96ECuJ9nBVf5Z7TGUv935BE8THy7f0G5s6gS"
+    },
+    {
+        "username": "user7",
+        "gender": "Male",
+        "phone": "6976541233",
+        "birthdate": "2003-11-20",
+        "email": "user7@example.com",
+        "password": "$2y$12$6gSvQRYYAdPca1\/dEfgvYeCowswLz7qxQbgZQhxVPF3XHS9mu23T2"
+    },
+    {
+        "username": "user8",
+        "gender": "Non Binary",
+        "phone": "6985553333",
+        "birthdate": "2001-10-15",
+        "email": "user8@example.com",
+        "password": "$2y$12$VFVvzMZA\/wi1stFwIS97C.qGfWa0ipI.zgmfjkJi\/kLYqdGJ6uQkq"
+    },
+    {
+        "username": "user9",
+        "gender": "Male",
+        "phone": "6984569999",
+        "birthdate": "1996-05-06",
+        "email": "user9@gmail.com",
+        "password": "$2y$12$eA0wrn0gTRfhcFsXawn3ieTY4uDHVwIIf27TRch3RUVRjc\/Q7CIhm"
+    },
+    {
+        "username": "user10",
+        "gender": "Non Binary",
+        "phone": "6983338888",
+        "birthdate": "2000-11-06",
+        "email": "user10@example.com",
+        "password": "$2y$12$6GHHquWw6CONAOsXg7vHt.JwK7xxfGbSYC4r9wTkwkCAfF\/2kT\/D."
+    },
+    {
+        "username": "user11",
+        "gender": "Female",
+        "phone": "6911112222",
+        "birthdate": "2001-10-31",
+        "email": "user11@example.com",
+        "password": "$2y$12$XCWir\/6fm.NXyMIXDe0CreHWbEHR8Vqwn1\/DTBREqMOWFx8nGHZnO"
+    },
+    {
+        "username": "user12",
+        "gender": "Male",
+        "phone": "6977322345",
+        "birthdate": "2003-11-21",
+        "email": "user12@example.com",
+        "password": "$2y$12$qrBT7Ngdefx0ijs2s6DUU.GqkzcyF4SOgepTNttOIcXYdwvPMMUHS"
+    }
+]

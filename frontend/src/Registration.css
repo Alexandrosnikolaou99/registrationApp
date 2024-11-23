@@ -1,0 +1,99 @@
+body {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    padding: 0;
+    box-sizing: border-box;
+}
+
+label {
+    font-size: medium; /* Reduced font size */
+    margin-bottom: 8px;
+    width: 100%;
+    text-align: left;
+}
+
+.button {
+    margin-top: 0.8rem;
+    padding: 0.8rem; /* Reduced padding */
+    font-size: 14px; /* Smaller font */
+    border-radius: 5px; 
+    border: 1px solid black;
+    background-color: #007bff; 
+    color: white; 
+    text-align: center;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #0056b3; 
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start; 
+    width: 400px; /* Reduced width */
+    padding: 30px; /* Reduced padding */
+    background-color: rgb(203, 157, 97);
+    border-radius: 10px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    box-sizing: border-box;
+}
+
+input,
+select {
+    margin-bottom: 8px; /* Reduced margin */
+    padding: 6px; /* Reduced padding */
+    font-size: 14px; /* Smaller font size */
+    border-radius: 5px;
+    border: 1px solid black;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.header {
+    text-align: center;
+    margin: 20px auto;
+    font-size: 20px; /* Smaller font size */
+    font-weight: bold;
+    color: #333; 
+}
+
+.error {
+    color: red;
+    font-size: 12px; /* Smaller font size */
+    margin-top: 4px;
+}
+
+.error-input {
+    border: 1px solid red;
+    background-color: #ffe6e6;
+}
+
+.success {
+    color: white;                
+    font-size: 12px; /* Smaller font size */
+    margin-top: 8px;            
+    border: 1px solid green;     
+    padding: 8px; /* Reduced padding */
+    background-color: green;   
+    border-radius: 5px;          
+    text-align: center;     
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.error-backend {
+    color: white;                
+    font-size: 12px; /* Smaller font size */
+    margin-top: 8px;            
+    border: 1px solid red;     
+    padding: 8px; /* Reduced padding */
+    background-color: red;   
+    border-radius: 5px;          
+    text-align: center;     
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
